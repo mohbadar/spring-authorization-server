@@ -1,13 +1,13 @@
-package af.asr.authorization_server;
+package af.asr;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AuthorizationServerApplication {
+public class Bootstrap {
 
 	public static void main(String[] args) {
-		SpringApplication.run(AuthorizationServerApplication.class, args);
+		SpringApplication.run(Bootstrap.class, args);
 	}
 
 }

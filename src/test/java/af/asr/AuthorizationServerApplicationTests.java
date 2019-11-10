@@ -1,4 +1,4 @@
-package af.asr.authorization_server;
+package af.asr;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
